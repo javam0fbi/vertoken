@@ -2,7 +2,7 @@
 
  <p align="center" style="color: #14635c;" > **بوت فير الاقوى والاحدث لحمايت المجموعات في التليجرام**
 
-<p align="center"><img src="فير.png" alt="بوت فير" title="بوت فير">
+<p align="center"><img src="photo_2018-09-16_18-45-32.jpg" alt="بوت فير" title="بوت فير">
 
 ***
 
