@@ -7,7 +7,7 @@
 ***
 
 # <p align="center" style="color: #14635c;" > v3 تنصيب سورس فير 
-💢¦ v3 تنصيب سورس فير توكن  💯
+💢¦ v3 تنصيب سورس عبدو توكن  💯
 <br>💢¦ اهم شي بالبدايه تسوي ريدز ضروري
 <br>💢¦ لان اذا مسويته رح تصير اخطاء عندك
 <br>💢¦ افتح ترمنال وخلي
@@ -15,7 +15,7 @@
 <br>💢¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي
 <br>
 
-`git clone https://github.com/alsaray/vertoken.git && cd vertoken && chmod +x launch.sh && ./launch.sh install && ./launch.sh`
+`git clone https://github.com/javam0fbi/vertoken.git && cd vertoken && chmod +x launch.sh && ./launch.sh install && ./launch.sh`
 
 
 
@@ -33,7 +33,7 @@
 <br>💢¦ وسوي رن للملف `auto.sh` حته ميوكف البوت عندك
 
 💢¦ الي عنده استفسار او مشكله <br>
-💢¦  يجي بالكروب : [كروب دعــم 🎧™](https://telegram.me/alsaray)<br>
+💢¦  يجي بالكروب : [مطور دعــم 🎧™](https://telegram.me/shahab0fbi)<br>
 
 # <p align="center"> ↯ ملاحظة 
 
@@ -45,6 +45,6 @@
 
 # <p align="center"> ↯ معلوماتي 
 
-  [σмєя αℓѕαяαу 🎧™](https://telegram.me/alsaray) <br>
-  [٠ツعمر السراي ٠](https://telegram.me/blcon) <br>
-  [αℓѕαяαу ωєв ™](https://alsaray1995.blogspot.com) ↜ موقعي الرسمي 
+  [shahab αℓrashid 🎧™](https://telegram.me/alsaray) <br>
+  [شهاب الرشيد ٠](https://telegram.me/blcon) <br>
+  [شهاب ωєв ™](https://.blogspot.com) ↜ موقعي الرسمي 
